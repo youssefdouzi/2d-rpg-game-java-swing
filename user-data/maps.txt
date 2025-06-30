@@ -1,0 +1,18 @@
+class object.OBJ_Door 1 1200 1104 1 null
+class object.OBJ_Coin_Bronze 1 1008 912 1 null
+class object.OBJ_Coin_Bronze 1 1248 1008 1 null
+class object.OBJ_Axe 1 1584 1008 1 null
+class object.OBJ_Shield_Blue 1 1680 1008 1 null
+class object.OBJ_Potion_Red 1 1056 1296 1 null
+class object.OBJ_Heart 1 1056 1392 1 null
+class object.OBJ_ManaCrystal 1 1056 1488 1 null
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
