@@ -1,0 +1,4 @@
+1104 1008 DOWN
+Fighter Yahouu 8 8 class entity.Null 0 0 4 4 1 1 1 0 5 502 class entity.Aura
+0 1 class object.OBJ_Sword_Normal 1 class object.OBJ_Shield_Wood 1 class object.OBJ_Key 3
+11
